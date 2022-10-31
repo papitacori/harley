@@ -1,1 +1,1 @@
-# a
+client.on(¨ready¨, (message) => 
